@@ -1,4 +1,4 @@
 AuthType Basic  
-AuthName "Quotes"  
+AuthName "http://nirmit98.github.io/Quotes/"  
 AuthUserFile Quotes/.htpasswd
 require valid-user
